@@ -1,19 +1,19 @@
-# Contributing Guidelines
+# Contributing 
 
-Thank you for your interest in contributing to this project! 
+Thank you for joining our project! 
 
-## Suggesting Changes
+## How to submit changes
 
-We welcome your ideas and contributions! If you'd like to propose a change, please follow these steps:
+Just a few steps to join our community.
 
 1. Fork the repository.
 2. Create a new branch for your changes.
-3. Make your changes and commit them.
-4. Submit a pull request, describing your changes and why they should be merged.
+3. Use Your Magic to make changes and commit them.
+4. Submit a pull request, Sip coffee while we review your code.
 
-## Code Review
+## How to report a bug
 
-All contributions will go through a code review process. Be prepared to address feedback and make necessary revisions.
+You can submit them through "bug trackers". 
 
 
 Thank you for contributing to our project!
